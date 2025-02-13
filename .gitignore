@@ -1,0 +1,51 @@
+# Diretório de dependências do Node.js
+node_modules/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos de log
+*.log
+debug.log
+
+# Diretório de depuração
+debug/
+
+# Logs de erro do npm e Yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de Process ID (PID)
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Relatórios de cobertura de testes
+coverage/
+
+# Arquivo de metadados do macOS
+.DS_Store
+
+# Diretórios de build e distribuição
+dist/
+build/
+
+# Diretório temporário
+tmp/
+
+# Diretório de logs
+logs/
+
+# Saída de cobertura de código do NYC
+.nyc_output/
+
+# Configurações do Visual Studio Code
+.vscode/
+
+# Configurações do WebStorm/IntelliJ
+.idea/
+
+# Arquivos temporários do Vim
+*.swp
